@@ -61,7 +61,7 @@
 
 <hr/>
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
@@ -71,7 +71,7 @@
   <a href="#" title="daophuong0107">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=daophuong0107&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
-</div>
+</div> -->
 
 
 <h3 align="center">
